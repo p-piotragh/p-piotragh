@@ -1,16 +1,23 @@
-## Hi there 👋
+## elo żelo 👋
 
-<!--
-**p-piotragh/p-piotragh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nazywam się **Piotr Pazdan** i studiuję kierunek Cyberbezpieczeństwo na Akademii Górniczo-Hutniczej w Krakowie.
 
-Here are some ideas to get you started:
+Jestem pasjonatem komputerów i spawania.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Języki którymi się posługuję to:
+- 🇵🇱 j. polski
+- 🇬🇧 j. angielski
+- 🇩🇪 j. niemiecki
+- 🇨🇳 j. mandaryński (ćwicze na duolingo od września 2024)
+
+Języki programowanie którymi się posługuję to:
+- C/C++
+- Python
+- C#
+- Java
+- Rust
+- Go
+- Bash
+- assembler x64 (NASM)
+
+W chwilach wolnych chodzę na siłownię i oglądam Dzień Świra Marka Koterskiego.
