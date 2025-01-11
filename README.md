@@ -21,3 +21,5 @@ Języki programowanie którymi się posługuję to:
 - assembler x64 (NASM)
 
 W chwilach wolnych chodzę na siłownię i oglądam Dzień Świra Marka Koterskiego.
+
+Link do strony na GitHubie: https://p-piotragh.github.io/
