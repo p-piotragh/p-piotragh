@@ -23,3 +23,6 @@ Języki programowanie którymi się posługuję to:
 W chwilach wolnych chodzę na siłownię i oglądam Dzień Świra Marka Koterskiego.
 
 Link do strony na GitHubie: https://p-piotragh.github.io/
+
+Link do forka: https://github.com/p-piotragh/nba_api
+Źródłowy artykuł naukowy: https://ojs.apspublisher.com/index.php/jchst/article/view/87/85
